@@ -6,13 +6,14 @@
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
+
 <br />
 
 Привет, меня зовут Ильнур, я аспирант. Сейчас учусь на ИТ-специалиста. Изучаю Git, Python, Data Science и ещё несколько интересных технологий.
 
 <br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
+<img align="right" src="https://i.pinimg.com/originals/7b/03/a6/7b03a6c3abcee34524d2227405d5e5a9.png" width="400" height="280" />
   
 **Languages and Tools:**  
 
@@ -21,7 +22,7 @@
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
-* [x] Прокачать свой профиль на Github
-* [ ] Пройти курс по Git на Slurm
-* [ ] Создать свой первый проект на Github       
+* [x] Завести Github
+* [ ] Advanced Pythoning  +  SQL
+* [ ] Изучить библиотеки Numpy, Pandas, Matplotlib       
 <!-- TODO-IST:END -->
