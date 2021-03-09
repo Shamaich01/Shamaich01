@@ -13,7 +13,7 @@
 
 <br />
 
-<img align="right" src="https://i.pinimg.com/originals/7b/03/a6/7b03a6c3abcee34524d2227405d5e5a9.png" width="400" height="280" />
+<img align="right" src="https://i.redd.it/f4dcmcgm7aa31.png"  />
   
 **Languages and Tools:**  
 
